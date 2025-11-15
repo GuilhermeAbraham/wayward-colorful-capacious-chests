@@ -1,0 +1,247 @@
+{
+    "extends": "English",
+    "dictionaries": {
+        "item": {
+            "modColorChestsBlackWoodenChest": [
+                "black wooden chest",
+                "A black wooden chest for storage."
+            ],
+            "modColorChestsWhiteWoodenChest": [
+                "white wooden chest",
+                "A white wooden chest for storage."
+            ],
+            "modColorChestsRedWoodenChest": [
+                "red wooden chest",
+                "A red wooden chest for storage."
+            ],
+            "modColorChestsYellowWoodenChest": [
+                "yellow wooden chest",
+                "A yellow wooden chest for storage."
+            ],
+            "modColorChestsGreenWoodenChest": [
+                "green wooden chest",
+                "A green wooden chest for storage."
+            ],
+            "modColorChestsOrangeWoodenChest": [
+                "orange wooden chest",
+                "A orange wooden chest for storage."
+            ],
+            "modColorChestsPurpleWoodenChest": [
+                "purple wooden chest",
+                "A purple wooden chest for storage."
+            ],
+            "modColorChestsBlackCopperChest": [
+                "black copper chest",
+                "A black copper chest for storage."
+            ],
+            "modColorChestsWhiteCopperChest": [
+                "white copper chest",
+                "A white copper chest for storage."
+            ],
+            "modColorChestsRedCopperChest": [
+                "red copper chest",
+                "A red copper chest for storage."
+            ],
+            "modColorChestsYellowCopperChest": [
+                "yellow copper chest",
+                "A yellow copper chest for storage."
+            ],
+            "modColorChestsGreenCopperChest": [
+                "green copper chest",
+                "A green copper chest for storage."
+            ],
+            "modColorChestsOrangeCopperChest": [
+                "orange copper chest",
+                "A orange copper chest for storage."
+            ],
+            "modColorChestsPurpleCopperChest": [
+                "purple copper chest",
+                "A purple copper chest for storage."
+            ],
+            "modColorChestsBlackIronChest": [
+                "black iron chest",
+                "A black iron chest for storage."
+            ],
+            "modColorChestsRedIronChest": [
+                "red iron chest",
+                "A red iron chest for storage."
+            ],
+            "modColorChestsYellowIronChest": [
+                "yellow iron chest",
+                "A yellow iron chest for storage."
+            ],
+            "modColorChestsGreenIronChest": [
+                "green iron chest",
+                "A green iron chest for storage."
+            ],
+            "modColorChestsOrangeIronChest": [
+                "orange iron chest",
+                "A orange iron chest for storage."
+            ],
+            "modColorChestsPurpleIronChest": [
+                "purple iron chest",
+                "A purple iron chest for storage."
+            ],
+            "modColorChestsWhiteWroughtIronChest": [
+                "white wrought iron chest",
+                "A white wrought iron chest for storage."
+            ],
+            "modColorChestsRedWroughtIronChest": [
+                "red wrought iron chest",
+                "A red wrought iron chest for storage."
+            ],
+            "modColorChestsYellowWroughtIronChest": [
+                "yellow wrought iron chest",
+                "A yellow wrought iron chest for storage."
+            ],
+            "modColorChestsGreenWroughtIronChest": [
+                "green wrought iron chest",
+                "A green wrought iron chest for storage."
+            ],
+            "modColorChestsOrangeWroughtIronChest": [
+                "orange wrought iron chest",
+                "A orange wrought iron chest for storage."
+            ],
+            "modColorChestsPurpleWroughtIronChest": [
+                "purple wrought iron chest",
+                "A purple wrought iron chest for storage."
+            ]
+        },
+        "doodad": {
+            "modColorChestsBlackWoodenChest": [
+                "black wooden chest",
+                "A black wooden chest for storage."
+            ],
+            "modColorChestsWhiteWoodenChest": [
+                "white wooden chest",
+                "A white wooden chest for storage."
+            ],
+            "modColorChestsRedWoodenChest": [
+                "red wooden chest",
+                "A red wooden chest for storage."
+            ],
+            "modColorChestsYellowWoodenChest": [
+                "yellow wooden chest",
+                "A yellow wooden chest for storage."
+            ],
+            "modColorChestsGreenWoodenChest": [
+                "green wooden chest",
+                "A green wooden chest for storage."
+            ],
+            "modColorChestsOrangeWoodenChest": [
+                "orange wooden chest",
+                "A orange wooden chest for storage."
+            ],
+            "modColorChestsPurpleWoodenChest": [
+                "purple wooden chest",
+                "A purple wooden chest for storage."
+            ],
+            "modColorChestsBlackCopperChest": [
+                "black copper chest",
+                "A black copper chest for storage."
+            ],
+            "modColorChestsWhiteCopperChest": [
+                "white copper chest",
+                "A white copper chest for storage."
+            ],
+            "modColorChestsRedCopperChest": [
+                "red copper chest",
+                "A red copper chest for storage."
+            ],
+            "modColorChestsYellowCopperChest": [
+                "yellow copper chest",
+                "A yellow copper chest for storage."
+            ],
+            "modColorChestsGreenCopperChest": [
+                "green copper chest",
+                "A green copper chest for storage."
+            ],
+            "modColorChestsOrangeCopperChest": [
+                "orange copper chest",
+                "A orange copper chest for storage."
+            ],
+            "modColorChestsPurpleCopperChest": [
+                "purple copper chest",
+                "A purple copper chest for storage."
+            ],
+            "modColorChestsBlackIronChest": [
+                "black iron chest",
+                "A black iron chest for storage."
+            ],
+            "modColorChestsRedIronChest": [
+                "red iron chest",
+                "A red iron chest for storage."
+            ],
+            "modColorChestsYellowIronChest": [
+                "yellow iron chest",
+                "A yellow iron chest for storage."
+            ],
+            "modColorChestsGreenIronChest": [
+                "green iron chest",
+                "A green iron chest for storage."
+            ],
+            "modColorChestsOrangeIronChest": [
+                "orange iron chest",
+                "A orange iron chest for storage."
+            ],
+            "modColorChestsPurpleIronChest": [
+                "purple iron chest",
+                "A purple iron chest for storage."
+            ],
+            "modColorChestsWhiteWroughtIronChest": [
+                "white wrought iron chest",
+                "A white wrought iron chest for storage."
+            ],
+            "modColorChestsRedWroughtIronChest": [
+                "red wrought iron chest",
+                "A red wrought iron chest for storage."
+            ],
+            "modColorChestsYellowWroughtIronChest": [
+                "yellow wrought iron chest",
+                "A yellow wrought iron chest for storage."
+            ],
+            "modColorChestsGreenWroughtIronChest": [
+                "green wrought iron chest",
+                "A green wrought iron chest for storage."
+            ],
+            "modColorChestsOrangeWroughtIronChest": [
+                "orange wrought iron chest",
+                "A orange wrought iron chest for storage."
+            ],
+            "modColorChestsPurpleWroughtIronChest": [
+                "purple wrought iron chest",
+                "A purple wrought iron chest for storage."
+            ]
+        },
+        "itemGroup": {
+            "modColorChestsBlackPigments": [
+                "black pigment",
+                "An ingredient that can represent black pigment."
+            ],
+            "modColorChestsWhitePigments": [
+                "white pigment",
+                "An ingredient that can represent white pigment."
+            ],
+            "modColorChestsRedPigments": [
+                "red pigment",
+                "An ingredient that can represent red pigment."
+            ],
+            "modColorChestsYellowPigments": [
+                "yellow pigment",
+                "An ingredient that can represent yellow pigment."
+            ],
+            "modColorChestsGreenPigments": [
+                "green pigment",
+                "An ingredient that can represent green pigment."
+            ],
+            "modColorChestsOrangePigments": [
+                "orange pigment",
+                "An ingredient that can represent orange pigment."
+            ],
+            "modColorChestsPurplePigments": [
+                "purple pigment",
+                "An ingredient that can represent purple pigment."
+            ]
+        }
+    }
+}

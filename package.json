@@ -1,0 +1,15 @@
+{
+	"private": true,
+	"scripts": {
+		"clean": "npx rimraf ./out ./tsconfig.*tsbuildinfo",
+		"build": "npx tsc --build --pretty",
+		"watch": "npx tsc --build --watch --pretty --preserveWatchOutput"
+	},
+	"dependencies": {
+		"@types/node": "22.17.0",
+		"@wayward/types": "^2.15.1-beta"
+	},
+	"devDependencies": {
+		"typescript": "5.9.2"
+	}
+}
