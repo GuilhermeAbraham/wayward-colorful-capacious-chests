@@ -57,8 +57,8 @@ function getChestItemDescription(chestType: ChestType, color: Colors): IItemDesc
     const materialName = ChestType[chestType];
     const config = chestConfigMap.get(chestType)!;
     const [, itemType, , weightCapacity] = config;
-    const doodadTypeKey = `doodad${colorName}${materialName}Chest` as keyof ColorChests;
-    const doodadType = Registry<ColorChests>().get(doodadTypeKey) as unknown as DoodadType;
+    const doodadTypeKey = `doodad${colorName}${materialName}Chest` as keyof ColorfulCapaciousChests;
+    const doodadType = Registry<ColorfulCapaciousChests>().get(doodadTypeKey) as unknown as DoodadType;
 
     const baseItemDescription = itemDescriptions[itemType]!;
     const baseItemRecipe = baseItemDescription.recipe;
@@ -67,8 +67,8 @@ function getChestItemDescription(chestType: ChestType, color: Colors): IItemDesc
     }
     const baseItemComponents = baseItemRecipe.components;
 
-    const pigmentComponentKey = `item${colorName}Pigments` as keyof ColorChests;
-    const pigmentComponent = Registry<ColorChests>().get(pigmentComponentKey) as ItemTypeGroup;
+    const pigmentComponentKey = `item${colorName}Pigments` as keyof ColorfulCapaciousChests;
+    const pigmentComponent = Registry<ColorfulCapaciousChests>().get(pigmentComponentKey) as ItemTypeGroup;
 
     return {
         ...baseItemDescription,
@@ -88,8 +88,8 @@ function getChestDoodadDescription(chestType: ChestType, color: Colors): IDoodad
     const materialName = ChestType[chestType];
     const config = chestConfigMap.get(chestType)!;
     const [, , doodadType, weightCapacity] = config;
-    const itemTypeKey = `item${colorName}${materialName}Chest` as keyof ColorChests;
-    const itemType = Registry<ColorChests>().get(itemTypeKey) as unknown as ItemType;
+    const itemTypeKey = `item${colorName}${materialName}Chest` as keyof ColorfulCapaciousChests;
+    const itemType = Registry<ColorfulCapaciousChests>().get(itemTypeKey) as unknown as ItemType;
 
     const baseDoodadDescription = doodadDescriptions[doodadType];
     return {
@@ -101,9 +101,9 @@ function getChestDoodadDescription(chestType: ChestType, color: Colors): IDoodad
     };
 }
 
-export default class ColorChests extends Mod {
-    @Mod.instance<ColorChests>("ColorChests")
-    public static readonly INSTANCE: ColorChests;
+export default class ColorfulCapaciousChests extends Mod {
+    @Mod.instance<ColorfulCapaciousChests>("ColorfulCapaciousChests")
+    public static readonly INSTANCE: ColorfulCapaciousChests;
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Pigment Groups for all 8 colors

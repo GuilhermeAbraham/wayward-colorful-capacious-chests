@@ -1,8 +1,8 @@
 import { DoodadType } from "@wayward/game/game/doodad/IDoodad";
 import { ItemType, ItemTypeGroup } from "@wayward/game/game/item/IItem";
 import Mod from "@wayward/game/mod/Mod";
-export default class ColorChests extends Mod {
-    static readonly INSTANCE: ColorChests;
+export default class ColorfulCapaciousChests extends Mod {
+    static readonly INSTANCE: ColorfulCapaciousChests;
     itemBlackPigments: ItemTypeGroup;
     itemWhitePigments: ItemTypeGroup;
     itemRedPigments: ItemTypeGroup;

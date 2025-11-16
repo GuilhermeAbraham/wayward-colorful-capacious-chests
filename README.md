@@ -1,4 +1,4 @@
-# Additional Chests
+# Colorful Capacious Chests
 
 A Wayward mod that adds colorful, high-capacity chest variants for better organization and increased storage.
 
